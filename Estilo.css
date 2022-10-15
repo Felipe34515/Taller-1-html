@@ -1,0 +1,102 @@
+body{
+    background-color: rgb(230, 215, 152);
+}
+
+h1 {
+    color:rgb(155, 51, 25)
+    
+}
+
+h2 {
+    color:rgba(187, 71, 4, 0.932)
+    
+}
+
+p {
+    text-align: left;
+}
+
+.descripcion {
+    font-weight: bold;
+    color: blue;
+}
+.contenedor-columnas{
+    width: 100%;
+    margin: auto;
+    
+}
+.columnas1{
+    width: 42%;
+    float: left;
+    padding: 20px 20px;
+    box-sizing: border-box;
+    border-style: groove;
+    border-width: 2px;
+}
+.columnas2{
+    width: 55%;
+    float: right;
+    padding: 20px 20px;
+    box-sizing: border-box;
+    border-style: groove;
+    border-width: 2px;
+}
+.columnas3{
+    width: 42%;
+    float: right;
+    padding: 20px 20px;
+    box-sizing: border-box;
+    box-sizing: border-box;
+    border-style: groove;
+    border-width: 2px;
+}
+.columnas4{
+    width: 55%;
+    float: left;
+    padding: 20px 20px;
+    box-sizing: border-box;
+    box-sizing: border-box;
+    border-style: groove;
+    border-width: 2px;
+}
+.columnasT1{
+    height: 50%;
+    padding: 20px 20px;
+    box-sizing: border-box;
+    padding-bottom: 20px;
+}
+
+.columnasT2{
+    height: 45%;
+    padding-top: 10px;
+    padding: 20px 20px;
+    box-sizing: border-box;
+}
+
+.columnax21{
+    width: 50%;
+    float: left;
+    padding: 20px 20px;
+    box-sizing: border-box;
+}
+.columnax22{
+    width: 50%;
+    float: right;
+    padding: 20px 20px;
+    box-sizing: border-box;
+}
+
+.columnax3{
+    width: 33,33%;
+    float: left;
+    padding: 20px 20px;
+    box-sizing: border-box;
+}
+.columnaPortada1{
+    height: 25%;
+    box-sizing: border-box;
+}
+.columnaPortada2{
+    height: 10%;
+    box-sizing: border-box;
+}
