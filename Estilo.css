@@ -16,6 +16,15 @@ p {
     text-align: left;
 }
 
+h6{
+    text-align: right;
+    color: rgb(175, 17, 17);
+    font: 15px serif, serif;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-right: 3%;
+}
+
 .descripcion {
     font-weight: bold;
     color: blue;
@@ -26,7 +35,7 @@ p {
     
 }
 .columnas1{
-    width: 42%;
+    width: 44%;
     float: left;
     padding: 20px 20px;
     box-sizing: border-box;
@@ -42,7 +51,7 @@ p {
     border-width: 2px;
 }
 .columnas3{
-    width: 42%;
+    width: 44%;
     float: right;
     padding: 20px 20px;
     box-sizing: border-box;
