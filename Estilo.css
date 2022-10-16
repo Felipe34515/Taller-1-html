@@ -1,19 +1,31 @@
 body{
-    background-color: rgb(230, 215, 152);
+    background: url(https://img.freepik.com/vector-gratis/fondo-degradado-oscuro-espacio-copia_53876-99548.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family:  sans-serif;
+    font-family: 'Roboto Mono', monospace;
+
 }
 
 h1 {
-    color:rgb(155, 51, 25)
+    color:rgb(247, 54, 6)
     
 }
 
-h2 {
-    color:rgba(187, 71, 4, 0.932)
+.Minititulos {
+    color:rgba(248, 172, 8, 0.932)
     
+    
+}
+.suscribete{
+    color:rgba(248, 172, 8, 0.932)
 }
 
 p {
     text-align: left;
+}
+.Lista1{
+    color: aliceblue;
 }
 
 h6{
@@ -40,6 +52,7 @@ h6{
     padding: 20px 20px;
     box-sizing: border-box;
     border-style: groove;
+    border-color: rgb(118, 118, 241);
     border-width: 2px;
 }
 .columnas2{
@@ -48,6 +61,7 @@ h6{
     padding: 20px 20px;
     box-sizing: border-box;
     border-style: groove;
+    border-color: rgb(118, 118, 241);
     border-width: 2px;
 }
 .columnas3{
@@ -57,6 +71,7 @@ h6{
     box-sizing: border-box;
     box-sizing: border-box;
     border-style: groove;
+    border-color: rgb(118, 118, 241);
     border-width: 2px;
 }
 .columnas4{
@@ -66,6 +81,7 @@ h6{
     box-sizing: border-box;
     box-sizing: border-box;
     border-style: groove;
+    border-color: rgb(118, 118, 241);
     border-width: 2px;
 }
 .columnasT1{
@@ -76,7 +92,7 @@ h6{
 }
 
 .columnasT2{
-    height: 45%;
+    height: 49%;
     padding-top: 10px;
     padding: 20px 20px;
     box-sizing: border-box;
